@@ -1755,13 +1755,13 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 48px;
+			width: auto;
 			height: 48px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
+				width: auto;
 				height: 48px;
 			}
 
@@ -2169,7 +2169,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #3d9ef8;
 					}
 
 /* Footer */
